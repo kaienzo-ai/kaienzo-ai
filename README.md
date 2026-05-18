@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Kai 👋
 
-<!--
-**kaienzo-ai/kaienzo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Creative Director** building local-first content pipelines —
+the kind of infrastructure most creators outsource to SaaS, but I'd
+rather own.
 
-Here are some ideas to get you started:
+**What I'm building right now:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 **HyperFrames** — local video render stack (Whisper + overlay
+  templates). Replaced Submagic.
+- 🤖 **Multi-LLM fallback chains** — agent ops resilience patterns,
+  DeepSeek v4-pro → v4-flash.
+- 📺 **Multi-brand reels pipeline** — 3 brands, weekly cadence,
+  Postiz-driven scheduling, Telegram-gated human approval.
+
+**Numbers (last 30 days, May 2026):**
+- 168.9K views · 100.1K accounts reached (+3,180% MoM)
+- 22% save-to-like ratio — audience treats content as reference material
+- 72% international reach across IG @kaienzo.ai
+
+**Partnerships:** Creator Pro Partner @ [InVideo](https://invideo.io) ·
+CPP @ Alibaba Happyhorse · CPP @ Lovart AI
+
+**Stack I lean on:** Python · Docker · launchd/cron · Whisper · ComfyUI ·
+DeepSeek · Postiz · Tailscale
+
+📍 Surabaya, Indonesia · 🌐 [@kaienzo.ai](https://instagram.com/kaienzo.ai) ·
+📧 innikreatif@gmail.com
