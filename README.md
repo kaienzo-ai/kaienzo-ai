@@ -24,5 +24,5 @@ CPP @ Alibaba Happyhorse · CPP @ Lovart AI
 **Stack I lean on:** Python · Docker · launchd/cron · Whisper · ComfyUI ·
 DeepSeek · Postiz · Tailscale
 
-📍 Surabaya, Indonesia · 🌐 [@kaienzo.ai](https://instagram.com/kaienzo.ai) ·
+📍 Indonesia · 🌐 [@kaienzo.ai](https://instagram.com/kaienzo.ai) ·
 📧 innikreatif@gmail.com
